@@ -10,8 +10,11 @@ $ ghci sat.hs
 ```
 
 In this example we solved the formula:
+
 (a or b) and (-a or -b or -c) and (-a or b or -c) and (-b or -c) and (-a or c)
+
 And got the solution:
+
 Formula is SAT: a = false, b = true, c = false
 
 Things that are on the todo list:
