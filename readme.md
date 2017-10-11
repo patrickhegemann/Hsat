@@ -11,7 +11,7 @@ $ ghci sat.hs
 
 In this example we solved the formula:
 
-(a or b) and (-a or -b or -c) and (-a or b or -c) and (-b or -c) and (-a or c)
+(a or b) and (¬a or ¬b or ¬c) and (¬a or b or ¬c) and (¬b or ¬c) and (¬a or c)
 
 And got the solution:
 
